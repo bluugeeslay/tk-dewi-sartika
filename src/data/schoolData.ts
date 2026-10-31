@@ -51,7 +51,7 @@ export const SCHOOL_INFO = {
   googleMapsUrl: "https://maps.google.com/?q=Jl.+Perintis+Kemerdekaan+No.+180,+Kawalu,+Kota+Tasikmalaya",
   instagram: "@tkdewisartikaa_tasikmalaya",
   instagramUrl: "https://www.instagram.com/tkdewisartikaa_tasikmalaya",
-  slogan: "Pendidikan Bermutu Untuk Semua - Ramah Anak",
+  slogan: "Ceria, Kreatif, Mandiri, dan Berkarakter",
   subText: "Ayo belajar bersama kami, bersama kita tumbuh!",
   description:
     "TK Dewi Sartika merupakan lembaga pendidikan anak usia dini yang berkomitmen memberikan layanan pendidikan yang berkualitas, menyenangkan, dan berkarakter. Kami merancang pembelajaran untuk membantu anak tumbuh dan berkembang secara optimal, baik dari aspek kognitif, sosial-emosional, bahasa, fisik motorik, maupun nilai moral.",
