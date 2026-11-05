@@ -165,15 +165,15 @@ export const ContactSection: React.FC = () => {
             <div className="p-4 bg-[#FAF7F2] border-b border-[#E8DFC8] flex items-center justify-between text-xs">
               <span className="font-semibold text-[#4A2E20] flex items-center gap-1.5">
                 <MapPin className="w-3.5 h-3.5 text-[#C5892F]" />
-                Peta Lokasi: Jl. Perintis Kemerdekaan No. 180, Kawalu
+                Peta Lokasi: Jl. Perintis Kemerdekaan No. 182, Karsamenak, Kawalu
               </span>
-              <span className="text-[#7A5B45]">Kota Tasikmalaya</span>
+              <span className="text-[#7A5B45]">Kota Tasikmalaya, Jawa Barat 46182</span>
             </div>
 
             <div className="grow w-full min-h-[350px] relative bg-[#EDE4D5]">
               <iframe
                 title="Peta Lokasi TK Dewi Sartika Kawalu Tasikmalaya"
-                src="https://maps.google.com/maps?q=Jl.+Perintis+Kemerdekaan+No.+180,+Kawalu,+Kota+Tasikmalaya&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.851211212797!2d108.21084737476177!3d-7.370568692638734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f57bd7af06d17%3A0xd3221d9dc72e6a25!2sJl.%20Perintis%20Kemerdekaan%20No.182%2C%20Karsamenak%2C%20Kec.%20Kawalu%2C%20Kota%20Tasikmalaya%2C%20Jawa%20Barat%2046182!5e0!3m2!1sen!2sid!4v1793892699843!5m2!1sen!2sid"
                 className="w-full h-full min-h-[350px] border-0"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
